@@ -23,15 +23,6 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 ---
 
-## 📊 Featured Analysis Projects
-
-*   📁 **[Nople-Worm-Malware-Analysis](https://github.com)**
-    *   *Deep dive into W32.Nople's service creation and network replication routines.*
-*   📁 **[NjRAT-Malware-Analysis](https://github.com)**
-    *   *Dynamic tracking and behavior cataloging of the popular Remote Access Trojan.*
-
----
-
 ## 🛠️ Tools & Technologies
 
 *   **Languages:** `C` | `C++` | `Assembly x86/x64`
