@@ -26,8 +26,8 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 ## 🛠️ Tools & Technologies
 
 *   **Languages:** `C` | `C++` | `Assembly x86/x64`
-*   **Analysis & RE:** `IDA Pro` | `Ghidra` | `x64dbg`
-*   **Network & Signatures:** `Wireshark` | `YARA`
+*   **Analysis & RE:** `IDA ` | `Ghidra` | `x64dbg`
+*   **Network & Signatures:** `Wireshark` 
 *   **OS Internals:** `Windows Internals` | `Linux Syscalls`
 
 ---
