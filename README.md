@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Red Harlow (RedHarlowCore)
 
-### 💻 Malware Reverse Engineer | C/C++ Developer | Cybersecurity Enthusiast
+### 💻 Malware Reverse Engineer | C/C++ Developer | Cybersecurity Expert
 
 Experienced in dissecting executable binaries, auditing network propagation vectors, and uncovering persistence mechanisms in malware. I bridge the gap between low-level assembly analysis and secure software development.
 
