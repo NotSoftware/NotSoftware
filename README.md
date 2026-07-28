@@ -33,7 +33,7 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 ---
 
 ## 📫 Connect With Me
-*   🌍 **Discord:** [Soon] 
+*   🌍 **Discord:** [0xrdo] 
 *   💼 **LinkedIn:** [https://www.linkedin.com/in/redharlow/]
 
 ---
