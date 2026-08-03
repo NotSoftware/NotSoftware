@@ -102,15 +102,53 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 <br/><br/>
 
-<img src="https://progress-bar.dev/50/?title=C&width=380&color=4fc3ff&suffix=%25" alt="C 50%"/>
-<br/>
-<img src="https://progress-bar.dev/20/?title=C%2B%2B&width=380&color=0091ff&suffix=%25" alt="C++ 20%"/>
-<br/>
-<img src="https://progress-bar.dev/17/?title=C%23&width=380&color=6f6fff&suffix=%25" alt="C# 17%"/>
-<br/>
-<img src="https://progress-bar.dev/10/?title=Python&width=380&color=00d9ff&suffix=%25" alt="Python 10%"/>
-<br/>
-<img src="https://progress-bar.dev/3/?title=Assembly&width=380&color=0d3a5c&suffix=%25" alt="Assembly 3%"/>
+<table border="1" cellpadding="14" cellspacing="0">
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/C-4fc3ff?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<br/><br/>
+<img src="https://progress-bar.dev/50/?width=280&color=4fc3ff&suffix=%25" alt="C 50%"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/C%2B%2B-0091ff?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<br/><br/>
+<img src="https://progress-bar.dev/20/?width=280&color=0091ff&suffix=%25" alt="C++ 20%"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/C%23-6f6fff?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+<br/><br/>
+<img src="https://progress-bar.dev/17/?width=280&color=6f6fff&suffix=%25" alt="C# 17%"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Python-00d9ff?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+<br/><br/>
+<img src="https://progress-bar.dev/10/?width=280&color=00d9ff&suffix=%25" alt="Python 10%"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Assembly-0d3a5c?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+<br/><br/>
+<img src="https://progress-bar.dev/3/?width=280&color=0d3a5c&suffix=%25" alt="Assembly 3%"/>
+
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
