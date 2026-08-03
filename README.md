@@ -2,11 +2,7 @@
 
 ### 💻 Malware Reverse Engineer | C/C++ Developer | Cybersecurity Expert
 
-<p align="left">
-  <img src="https://shields.io" alt="Maintained" />
-  <img src="https://shields.io" alt="Specialty" />
-  <img src="https://shields.io" alt="Focus" />
-</p>
+![Maintained](https://shields.io) ![Specialty](https://shields.io) ![Focus](https://shields.io)
 
 Experienced in dissecting executable binaries, auditing network propagation vectors, and uncovering persistence mechanisms in malware. I bridge the gap between low-level assembly analysis and secure software development.
 
@@ -40,29 +36,27 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 ## 🛠️ Tools & Technologies
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Assembly" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://shields.io" alt="IDA Pro" />
-  <img src="https://shields.io" alt="Ghidra" />
-  <img src="https://shields.io" alt="x64dbg" />
-  <img src="https://shields.io" alt="Wireshark" />
-  <br/>
-  <!-- OS -->
-  <img src="https://shields.io" alt="Windows" />
-  <img src="https://shields.io" alt="Linux" />
-</p>
+### 🚀 Languages
+![C](https://shields.io) 
+![C++](https://shields.io) 
+![Assembly](https://shields.io)
+
+### 🔍 Analysis & RE
+![IDA Pro](https://shields.io) 
+![Ghidra](https://shields.io) 
+![x64dbg](https://shields.io) 
+![Wireshark](https://shields.io)
+
+### 💻 OS Internals
+![Windows](https://shields.io) 
+![Linux](https://shields.io)
 
 ---
 
 ## 📫 Connect With Me
 
 * 🌍 **Discord:** `0xrdo`
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/redharlow/](https://www.linkedin.com/in/redharlow/)
+* 💼 **LinkedIn:** [https://linkedin.com](https://linkedin.com)
 
 ---
 
