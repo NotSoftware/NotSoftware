@@ -31,6 +31,7 @@ struct Engineer {
     bool         breaks_binaries = true;
     bool         sleeps_on_time  = false;
 };
+```
 Experienced in dissecting executable binaries, auditing network propagation vectors, and uncovering persistence mechanisms in malware. I bridge the gap between low-level assembly analysis and secure software development — turning unknown_0x401000 into a full behavioral report.
 
 
@@ -105,6 +106,3 @@ https://img.shields.io/badge/Linux%2520Syscalls-0091FF?style=for-the-badge&logo=
 
 <div align="center">
 "The best way to understand security is to look at it through the eyes of the threat."
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01040a,50:0066ff,100:00d9ff&height=110&section=footer" width="100%"/></div> ```
