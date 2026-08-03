@@ -2,7 +2,7 @@
 
 ### 💻 Malware Reverse Engineer | C/C++ Developer | Cybersecurity Expert
 
-![Maintained](https://shields.io) ![Specialty](https://shields.io) ![Focus](https://shields.io)
+> **Specialty:** Malware Analysis | **Focus:** Low-Level Systems Development | **Status:** Actively Maintained
 
 Experienced in dissecting executable binaries, auditing network propagation vectors, and uncovering persistence mechanisms in malware. I bridge the gap between low-level assembly analysis and secure software development.
 
@@ -11,8 +11,8 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://vercel.app" alt="RedHarlow's GitHub Stats" width="49%" />
-  <img src="https://vercel.app" alt="RedHarlow's Top Languages" width="49%" />
+  <img src="https://vercel.app" alt="GitHub Stats" width="49%" />
+  <img src="https://vercel.app" alt="Top Languages" width="49%" />
 </p>
 
 ---
@@ -36,20 +36,9 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 ## 🛠️ Tools & Technologies
 
-### 🚀 Languages
-![C](https://shields.io) 
-![C++](https://shields.io) 
-![Assembly](https://shields.io)
-
-### 🔍 Analysis & RE
-![IDA Pro](https://shields.io) 
-![Ghidra](https://shields.io) 
-![x64dbg](https://shields.io) 
-![Wireshark](https://shields.io)
-
-### 💻 OS Internals
-![Windows](https://shields.io) 
-![Linux](https://shields.io)
+* 🚀 **Languages:** `C` | `C++` | `Assembly x86/x64`
+* 🔍 **Analysis & RE:** `IDA Pro` | `Ghidra` | `x64dbg` | `Wireshark`
+* 💻 **OS Internals:** `Windows Internals` | `Linux Syscalls`
 
 ---
 
