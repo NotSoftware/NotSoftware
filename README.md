@@ -1,52 +1,112 @@
-# 👋 Hi, I'm Red Harlow (RedHarlowCore)
+<div align="center">
 
-### 💻 Malware Reverse Engineer | C/C++ Developer | Cybersecurity Expert
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Red+Harlow;Malware+Reverse+Engineer;C+%2F+C%2B%2B+Developer;Cybersecurity+Expert" alt="Typing SVG" />
 
-> **Specialty:** Malware Analysis | **Focus:** Low-Level Systems Development | **Status:** Actively Maintained
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RedHarlowCore&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+[![Discord](https://img.shields.io/badge/Discord-0xrdo-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RedHarlow-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redharlow/)
+
+</div>
+
+---
+
+### 🛡️ About Me
+
+```c
+struct Engineer {
+    char*  name        = "Red Harlow";
+    char*  role         = "Malware Reverse Engineer";
+    char*  stack[3]     = {"C", "C++", "x86/x64 ASM"};
+    bool   breaks_binaries = true;
+};
+```
 
 Experienced in dissecting executable binaries, auditing network propagation vectors, and uncovering persistence mechanisms in malware. I bridge the gap between low-level assembly analysis and secure software development.
 
 ---
 
-## 📊 GitHub Analytics
+### 🔍 Core Expertise
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="49%" />
-  <img src="https://vercel.app" alt="Top Languages" width="49%" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🦠 Malware Analysis**
+- Static & Dynamic analysis of compiled binaries
+- Unpacking routines & signature generation using YARA
 
-## 🛡️ Core Expertise
+**🧩 Reverse Engineering**
+- Deconstructing Windows Portable Executables (PE)
+- Deep diving into binary code using IDA Pro & Ghidra
 
-* **Malware Analysis**
-  * Static & Dynamic analysis of compiled binaries.
-  * Unpacking routines and signature generation using YARA.
-* **Reverse Engineering**
-  * Deconstructing Windows Portable Executables (PE).
-  * Deep diving into binary code using IDA Pro and Ghidra.
-* **Development**
-  * Writing secure, optimized systems-level tooling.
-  * Proficient in **C / C++** and x86/x64 Assembly.
-* **Cybersecurity**
-  * Threat Intelligence analysis.
-  * Infrastructure hardening and Windows Internals security.
+</td>
+<td width="50%" valign="top">
 
----
+**⚙️ Development**
+- Writing secure, optimized systems-level tooling
+- Proficient in C / C++ and x86/x64 Assembly
 
-## 🛠️ Tools & Technologies
+**🛰️ Cybersecurity**
+- Threat Intelligence analysis
+- Infrastructure hardening & Windows Internals security
 
-* 🚀 **Languages:** `C` | `C++` | `Assembly x86/x64`
-* 🔍 **Analysis & RE:** `IDA Pro` | `Ghidra` | `x64dbg` | `Wireshark`
-* 💻 **OS Internals:** `Windows Internals` | `Linux Syscalls`
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect With Me
+### 🛠️ Tools & Technologies
 
-* 🌍 **Discord:** `0xrdo`
-* 💼 **LinkedIn:** [https://linkedin.com](https://linkedin.com)
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-x86%2Fx64-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logo=ida&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-9DC90D?style=for-the-badge&logo=nsa&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-EB1E23?style=for-the-badge&logoColor=white)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Windows Internals](https://img.shields.io/badge/Windows%20Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Syscalls](https://img.shields.io/badge/Linux%20Syscalls-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-> *“The best way to understand security is to look at it through the eyes of the threat.”*
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RedHarlowCore&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedHarlowCore&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RedHarlowCore&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RedHarlowCore&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"The best way to understand security is to look at it through the eyes of the threat."*
+
+![Snake animation](https://raw.githubusercontent.com/RedHarlowCore/RedHarlowCore/output/github-contribution-grid-snake.svg)
+
+</div>
