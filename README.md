@@ -103,8 +103,8 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 <br/><br/>
 
 <!-- Real generated stats (requires one-time setup — see instructions below) -->
-<img src="https://raw.githubusercontent.com/RedHarlowCore/github-stats/generated/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview Stats" width="48%"/>
-<img src="https://raw.githubusercontent.com/RedHarlowCore/github-stats/generated/generated/languages.svg#gh-dark-mode-only" alt="Languages Used" width="48%"/>
+<img src="https://raw.githubusercontent.com/RedHarlowCore/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview Stats" width="48%"/>
+<img src="https://raw.githubusercontent.com/RedHarlowCore/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Languages Used" width="48%"/>
 
 <br/><br/>
 
