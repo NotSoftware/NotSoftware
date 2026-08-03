@@ -98,13 +98,19 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-%F0%9F%93%8A%20GITHUB%20STATS-0091FF?style=for-the-badge" alt="github stats"/>
+<img src="https://img.shields.io/badge/-%F0%9F%93%8A%20LANGUAGES%20USED-0091FF?style=for-the-badge" alt="languages used"/>
 
 <br/><br/>
 
-<!-- Real generated stats (requires one-time setup — see instructions below) -->
-<img src="https://raw.githubusercontent.com/RedHarlowCore/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview Stats" width="48%"/>
-<img src="https://raw.githubusercontent.com/RedHarlowCore/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Languages Used" width="48%"/>
+<img src="https://progress-bar.dev/50/?title=C&width=380&color=4fc3ff&suffix=%25" alt="C 50%"/>
+<br/>
+<img src="https://progress-bar.dev/20/?title=C%2B%2B&width=380&color=0091ff&suffix=%25" alt="C++ 20%"/>
+<br/>
+<img src="https://progress-bar.dev/17/?title=C%23&width=380&color=6f6fff&suffix=%25" alt="C# 17%"/>
+<br/>
+<img src="https://progress-bar.dev/10/?title=Python&width=380&color=00d9ff&suffix=%25" alt="Python 10%"/>
+<br/>
+<img src="https://progress-bar.dev/3/?title=Assembly&width=380&color=0d3a5c&suffix=%25" alt="Assembly 3%"/>
 
 <br/><br/>
 
