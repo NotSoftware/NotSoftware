@@ -98,7 +98,65 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/-%F0%9F%93%8A%20LANGUAGES%20USED-0091FF?style=for-the-badge" alt="languages used"/>
 
+<br/><br/>
+
+<table border="1" cellpadding="16" cellspacing="0">
+<tr>
+<td align="center" colspan="2">
+
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="46" alt="C icon"/>
+<br/>
+<b>C</b>
+<br/><br/>
+<img src="https://progress-bar.dev/50/?width=260&color=4fc3ff&suffix=%25" alt="C 50%"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="42" alt="C++ icon"/>
+<br/>
+<b>C++</b>
+<br/><br/>
+<img src="https://progress-bar.dev/20/?width=200&color=0091ff&suffix=%25" alt="C++ 20%"/>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="42" alt="C# icon"/>
+<br/>
+<b>C#</b>
+<br/><br/>
+<img src="https://progress-bar.dev/17/?width=200&color=6f6fff&suffix=%25" alt="C# 17%"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=py&theme=dark" width="42" alt="Python icon"/>
+<br/>
+<b>Python</b>
+<br/><br/>
+<img src="https://progress-bar.dev/10/?width=200&color=00d9ff&suffix=%25" alt="Python 10%"/>
+
+</td>
+<td align="center">
+
+<span style="font-size:32px;">⚙️</span>
+<br/>
+<b>Assembly</b>
+<br/><br/>
+<img src="https://progress-bar.dev/3/?width=200&color=0d3a5c&suffix=%25" alt="Assembly 3%"/>
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedHarlowCore&theme=tokyonight&hide_border=true&background=060a13&ring=00D9FF&fire=0091FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
@@ -146,3 +204,8 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 > *"The best way to understand security is to look at it through the eyes of the threat."*
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01040a,50:0066ff,100:00d9ff&height=110&section=footer" width="100%"/>
+
+</div>
