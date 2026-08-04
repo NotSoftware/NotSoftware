@@ -165,11 +165,21 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-%F0%9F%8F%86%20TROPHIES-0091FF?style=for-the-badge" alt="trophies"/>
+<img src="https://img.shields.io/badge/-%F0%9F%92%BB%20TERMINAL%20LOG-0091FF?style=for-the-badge" alt="terminal log"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RedHarlowCore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=00D9FF&title_color=0091FF&text_color=c9d1d9&bg_color=060a13" alt="Live GitHub Stats" width="70%"/>
+<table border="1" cellpadding="18" cellspacing="0" width="85%">
+<tr>
+<td align="left">
+
+<code>root@0xrdo:~$</code>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=00D9FF&center=false&vCenter=true&width=600&height=25&lines=analyzing+sample.exe+...+%5BOK%5D;extracting+IOC+list+...+%5B14+found%5D;cross-referencing+YARA+rules+...+%5BMATCH%5D;writing+report+...+%5BDONE%5D;status%3A+no+threats+detected+on+this+profile+%3A)" alt="terminal typing"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
