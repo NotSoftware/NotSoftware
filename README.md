@@ -104,11 +104,9 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 <table border="1" cellpadding="16" cellspacing="0">
 <tr>
-<td align="center" colspan="2">
+<td align="center" colspan="4">
 
-<img src="https://skillicons.dev/icons?i=c&theme=dark" width="46" alt="C icon"/>
-<br/>
-<b>C</b>
+<b style="font-size:18px;">C</b>
 <br/><br/>
 <img src="https://progress-bar.dev/50/?width=260&color=4fc3ff&suffix=%25" alt="C 50%"/>
 
@@ -117,40 +115,30 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 <tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="42" alt="C++ icon"/>
-<br/>
-<b>C++</b>
-<br/><br/>
-<img src="https://progress-bar.dev/20/?width=200&color=0091ff&suffix=%25" alt="C++ 20%"/>
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="42" alt="C# icon"/>
-<br/>
 <b>C#</b>
 <br/><br/>
-<img src="https://progress-bar.dev/17/?width=200&color=6f6fff&suffix=%25" alt="C# 17%"/>
+<img src="https://progress-bar.dev/17/?width=150&color=6f6fff&suffix=%25" alt="C# 17%"/>
 
 </td>
-</tr>
-<tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=py&theme=dark" width="42" alt="Python icon"/>
-<br/>
+<b>C++</b>
+<br/><br/>
+<img src="https://progress-bar.dev/20/?width=150&color=0091ff&suffix=%25" alt="C++ 20%"/>
+
+</td>
+<td align="center">
+
 <b>Python</b>
 <br/><br/>
-<img src="https://progress-bar.dev/10/?width=200&color=00d9ff&suffix=%25" alt="Python 10%"/>
+<img src="https://progress-bar.dev/10/?width=150&color=00d9ff&suffix=%25" alt="Python 10%"/>
 
 </td>
 <td align="center">
 
-<span style="font-size:32px;">⚙️</span>
-<br/>
 <b>Assembly</b>
 <br/><br/>
-<img src="https://progress-bar.dev/3/?width=200&color=0d3a5c&suffix=%25" alt="Assembly 3%"/>
+<img src="https://progress-bar.dev/3/?width=150&color=0d3a5c&suffix=%25" alt="Assembly 3%"/>
 
 </td>
 </tr>
@@ -192,11 +180,23 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 <img src="https://img.shields.io/badge/-%F0%9F%A7%AC%20CURRENTLY-0091FF?style=for-the-badge" alt="currently"/>
 
-</div>
+<br/><br/>
 
-- 🔬 Reversing new samples & documenting behavioral TTPs
-- 🧪 Building internal YARA rule sets for emerging loader families
-- 📚 Reading *Windows Internals* (7th Ed.) — Part 2
+<table border="1" cellpadding="0" cellspacing="0" width="80%">
+<tr>
+<td>
+
+<table cellpadding="10" cellspacing="0" width="100%">
+<tr><td>🔬&nbsp;&nbsp;Reversing new samples & documenting behavioral TTPs</td></tr>
+<tr><td>🧪&nbsp;&nbsp;Building internal YARA rule sets for emerging loader families</td></tr>
+<tr><td>📚&nbsp;&nbsp;Reading <i>Windows Internals</i> (7th Ed.) — Part 2</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
