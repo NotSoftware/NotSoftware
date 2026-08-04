@@ -80,9 +80,9 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 ![C](https://img.shields.io/badge/C-0091FF?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-0091FF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6f6fff?style=for-the-badge&logo=csharp&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-x86%2Fx64-0d3a5c?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4fc3ff?style=for-the-badge&logo=python&logoColor=black)
-![C#](https://img.shields.io/badge/C#-4fc3ff?style=for-the-badge&logo=python&logoColor=black)
 
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logoColor=00D9FF)
 ![Ghidra](https://img.shields.io/badge/Ghidra-00619c?style=for-the-badge&logo=nsa&logoColor=white)
@@ -169,7 +169,12 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RedHarlowCore&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies"/>
+<img src="https://img.shields.io/badge/⭐_Stargazer-312-4fc3ff?style=for-the-badge&labelColor=060a13"/>
+<img src="https://img.shields.io/badge/🍴_Forked-57×-0091ff?style=for-the-badge&labelColor=060a13"/>
+<img src="https://img.shields.io/badge/📦_Repositories-142-00d9ff?style=for-the-badge&labelColor=060a13"/>
+<br/>
+<img src="https://img.shields.io/badge/📥_Contributions-4,918-6f6fff?style=for-the-badge&labelColor=060a13"/>
+<img src="https://img.shields.io/badge/🔥_Active_Streak-tracked_above-0d3a5c?style=for-the-badge&labelColor=060a13"/>
 
 </div>
 
