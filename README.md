@@ -106,39 +106,49 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 <tr>
 <td align="center" colspan="4">
 
-<b style="font-size:18px;">C</b>
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="40" alt="C icon"/>
+<br/>
+<b>C</b>
 <br/><br/>
-<img src="https://progress-bar.dev/50/?width=260&color=4fc3ff&suffix=%25" alt="C 50%"/>
+<code>▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱ 50%</code>
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="36" alt="C# icon"/>
+<br/>
 <b>C#</b>
 <br/><br/>
-<img src="https://progress-bar.dev/17/?width=150&color=6f6fff&suffix=%25" alt="C# 17%"/>
+<code>▰▰▰▱▱▱▱▱▱▱ 17%</code>
 
 </td>
 <td align="center">
 
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="36" alt="C++ icon"/>
+<br/>
 <b>C++</b>
 <br/><br/>
-<img src="https://progress-bar.dev/20/?width=150&color=0091ff&suffix=%25" alt="C++ 20%"/>
+<code>▰▰▰▰▱▱▱▱▱▱ 20%</code>
 
 </td>
 <td align="center">
 
+<img src="https://skillicons.dev/icons?i=py&theme=dark" width="36" alt="Python icon"/>
+<br/>
 <b>Python</b>
 <br/><br/>
-<img src="https://progress-bar.dev/10/?width=150&color=00d9ff&suffix=%25" alt="Python 10%"/>
+<code>▰▰▱▱▱▱▱▱▱▱ 10%</code>
 
 </td>
 <td align="center">
 
+<span style="font-size:28px;">⚙️</span>
+<br/>
 <b>Assembly</b>
 <br/><br/>
-<img src="https://progress-bar.dev/3/?width=150&color=0d3a5c&suffix=%25" alt="Assembly 3%"/>
+<code>▰▱▱▱▱▱▱▱▱▱ 3%</code>
 
 </td>
 </tr>
