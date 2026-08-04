@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01040a,35:2b6ea5,70:0091ff,100:00d9ff&height=230&section=header&text=RED%20HARLOW&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=%3C%20MALWARE%20REVERSE%20ENGINEER%20%2F%2F%20SYSTEM%20BREAKER%20%3E&descAlignY=56&descSize=16&descColor=00d9ff&animation=twinkling" alt="Red Harlow banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01040a,50:0091ff,100:00d9ff&height=210&section=header&text=RED%20HARLOW&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MALWARE%20REVERSE%20ENGINEER&descAlignY=58&descSize=18&descColor=aee4ff&animation=fadeIn" alt="Red Harlow banner" width="100%"/>
 
 <br/>
 
@@ -299,74 +299,6 @@ Collection of generic unpacking scripts for common packers, built on top of x64d
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,50:2b6ea5,100:0091ff&height=4&width=100%25" width="100%"/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-%F0%9F%97%92%EF%B8%8F%20TIMELINE-0091FF?style=for-the-badge&labelColor=01040a" alt="timeline"/>
-
-</div>
-
-<br/>
-
-<table width="90%" align="center" border="1" cellpadding="14" cellspacing="0">
-<tr><td width="15%" align="center"><b>Now</b></td><td>Deep-diving into loader families & building internal detection tooling</td></tr>
-<tr><td align="center"><b>Ongoing</b></td><td>Reading <i>Windows Internals</i> (7th Ed.), expanding kernel-level knowledge</td></tr>
-<tr><td align="center"><b>Earlier</b></td><td>Focused on static/dynamic analysis fundamentals & YARA rule authoring</td></tr>
-<tr><td align="center"><b>Start</b></td><td>Began with C / C++ systems programming, moved into security</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0091ff,50:2b6ea5,100:00d9ff&height=4&width=100%25" width="100%"/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-%F0%9F%A7%AC%20CURRENTLY-0091FF?style=for-the-badge&labelColor=01040a" alt="currently"/>
-
-<br/><br/>
-
-<table border="1" cellpadding="0" cellspacing="0" width="80%">
-<tr>
-<td>
-
-<table cellpadding="10" cellspacing="0" width="100%">
-<tr><td>🔬&nbsp;&nbsp;Reversing new samples & documenting behavioral TTPs</td></tr>
-<tr><td>🧪&nbsp;&nbsp;Building internal YARA rule sets for emerging loader families</td></tr>
-<tr><td>📚&nbsp;&nbsp;Reading <i>Windows Internals</i> (7th Ed.) — Part 2</td></tr>
-<tr><td>🛠️&nbsp;&nbsp;Improving personal unpacking toolkit for common packers</td></tr>
-<tr><td>🎯&nbsp;&nbsp;Studying anti-analysis & evasion techniques used in the wild</td></tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,50:2b6ea5,100:0091ff&height=4&width=100%25" width="100%"/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-%F0%9F%92%AC%20FUN%20FACTS-2B6EA5?style=for-the-badge&labelColor=01040a" alt="fun facts"/>
-
-<br/><br/>
-
-<table border="1" cellpadding="0" cellspacing="0" width="80%">
-<tr>
-<td>
-
-<table cellpadding="10" cellspacing="0" width="100%">
-<tr><td>☕&nbsp;&nbsp;Debug builds run on caffeine, not electricity</td></tr>
-<tr><td>🧩&nbsp;&nbsp;First thing I check in a new binary: the entry point, always</td></tr>
-<tr><td>🌙&nbsp;&nbsp;Best reversing sessions happen after midnight</td></tr>
-<tr><td>🐛&nbsp;&nbsp;I've spent more hours in a debugger than in a text editor</td></tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0091ff,50:2b6ea5,100:00d9ff&height=4&width=100%25" width="100%"/>
 
 <div align="center">
 
