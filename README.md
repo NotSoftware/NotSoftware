@@ -82,6 +82,7 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 ![C++](https://img.shields.io/badge/C%2B%2B-0091FF?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-x86%2Fx64-0d3a5c?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4fc3ff?style=for-the-badge&logo=python&logoColor=black)
+![C#](https://img.shields.io/badge/C#-4fc3ff?style=for-the-badge&logo=python&logoColor=black)
 
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logoColor=00D9FF)
 ![Ghidra](https://img.shields.io/badge/Ghidra-00619c?style=for-the-badge&logo=nsa&logoColor=white)
