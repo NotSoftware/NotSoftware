@@ -313,7 +313,6 @@ Open to discussing malware research, reverse engineering, or collaborating on to
 [![Discord](https://img.shields.io/badge/Discord-0xrdo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RedHarlow-00d9ff?style=for-the-badge&logo=linkedin&logoColor=01040a)](https://www.linkedin.com/in/redharlow/)
 [![Twitter](https://img.shields.io/badge/X-@0xrdo-0091ff?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
-[![Email](https://img.shields.io/badge/Email-Contact-2b6ea5?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact@example.com)
 
 </div>
 
