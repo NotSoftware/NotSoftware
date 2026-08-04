@@ -169,12 +169,7 @@ Experienced in dissecting executable binaries, auditing network propagation vect
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/⭐_Stargazer-312-4fc3ff?style=for-the-badge&labelColor=060a13"/>
-<img src="https://img.shields.io/badge/🍴_Forked-57×-0091ff?style=for-the-badge&labelColor=060a13"/>
-<img src="https://img.shields.io/badge/📦_Repositories-142-00d9ff?style=for-the-badge&labelColor=060a13"/>
-<br/>
-<img src="https://img.shields.io/badge/📥_Contributions-4,918-6f6fff?style=for-the-badge&labelColor=060a13"/>
-<img src="https://img.shields.io/badge/🔥_Active_Streak-tracked_above-0d3a5c?style=for-the-badge&labelColor=060a13"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RedHarlowCore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=00D9FF&title_color=0091FF&text_color=c9d1d9&bg_color=060a13" alt="Live GitHub Stats" width="70%"/>
 
 </div>
 
