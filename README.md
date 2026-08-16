@@ -38,7 +38,7 @@ struct Engineer {
     const char*  role              = "Malware Reverse Engineer";
     const char*  location          = "somewhere_behind_a_debugger";
     const char*  stack[3]          = {"C", "C++", "x86/x64 ASM"};
-    const char*  daily_driver[2]   = {"IDA Pro", "Ghidra"};
+    const char*  daily_driver[2]   = {"IDA Pro", "Ghidra" , "x64 & x32dbg"};
     bool         breaks_binaries   = true;
     bool         sleeps_on_time    = false;
     bool         trusts_user_input = false;
