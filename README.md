@@ -55,7 +55,7 @@ struct Engineer {
 
 Experienced in dissecting executable binaries, auditing network propagation vectors, and uncovering persistence mechanisms in malware. I bridge the gap between low-level assembly analysis and secure software development — turning `unknown_0x401000` into a full behavioral report.
 
-Every sample tells a story. My job is to read it before it finishes writing itself onto your system.
+I decipher malicious code before it gets the chance to execute its storyline.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,50:2b6ea5,100:0091ff&height=4&width=100%25" width="100%"/>
 
@@ -251,8 +251,6 @@ Every sample tells a story. My job is to read it before it finishes writing itse
 </div>
 
 <br/>
-
-> 🚧 The three cards below are placeholders — swap the name, description, and link for each with your real repositories.
 
 <table width="100%" border="1" cellpadding="16" cellspacing="0">
 <tr>
