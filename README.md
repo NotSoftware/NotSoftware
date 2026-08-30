@@ -50,11 +50,22 @@ I am a Security Researcher and Reverse Engineer focused on understanding softwar
 
 ---
 
-## GitHub Stats
+## GitHub Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Stats-181717?logo=github&logoColor=white" alt="GitHub Stats" />
-  <img src="https://img.shields.io/badge/Top%20Languages-C%2C%20C%2B%2B%2C%20Assembly-00599C?logo=codeforces&logoColor=white" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub%20Status-Active-181717?logo=github&logoColor=white" alt="GitHub Status" />
+  <img src="https://img.shields.io/badge/Most%20Used-C%20%7C%20C%2B%2B%20%7C%20Assembly-00D1FF?logo=codeforces&logoColor=white" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-Projects-00599C?logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Tools-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Assembly-Low%20Level-6E4C13?logo=gnu-bash&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Bash-Automation-4EAA25?logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Languages-C%20%7C%20C%2B%2B%20%7C%20Assembly%20%7C%20Bash-00599C?logo=codeforces&logoColor=white" alt="Top Languages" />
 </p>
 
 ---
