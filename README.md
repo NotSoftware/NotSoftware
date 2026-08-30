@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01040a,50:0091ff,100:00d9ff&height=210&section=header&text=RED%20HARLOW&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MALWARE%20REVERSE%20ENGINEER&descAlignY=58&descSize=18&descColor=aee4ff&animation=fadeIn" alt="Red Harlow banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01040a,50:0091ff,100:00d9ff&height=210&section=header&text=RED%20HARLOW&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MALWARE%20REVERSE%20ENGINEER&descAlignY=58&descSize=18&descColor=aee4ff&animation=fadeIn" alt="NotSoftware banner" width="100%"/>
 
 <br/>
 
@@ -15,9 +15,9 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RedHarlowCore&color=0091FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=NotSoftwaree&color=0091FF&style=for-the-badge&label=PROFILE+VIEWS)
 [![Discord](https://img.shields.io/badge/Discord-0xrdo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RedHarlow-00d9ff?style=for-the-badge&logo=linkedin&logoColor=01040a)](https://www.linkedin.com/in/redharlow/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NotSoftware-00d9ff?style=for-the-badge&logo=linkedin&logoColor=01040a)](https://www.linkedin.com/in/redharlow/)
 [![Twitter](https://img.shields.io/badge/X-@0xrdo-0091ff?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
 [![Email](https://img.shields.io/badge/Email-Contact-2b6ea5?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact@example.com)
 
@@ -33,7 +33,7 @@
 
 ```c
 struct Engineer {
-    const char*  name              = "Red Harlow";
+    const char*  name              = "NotSoftware";
     const char*  alias             = "0xrdo";
     const char*  role              = "Malware Reverse Engineer";
     const char*  location          = "somewhere_behind_a_debugger";
@@ -216,7 +216,7 @@ I decipher malicious code before it gets the chance to execute its storyline.
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RedHarlowCore&theme=radical&hide_border=true&background=01040a&ring=0091FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=2B6EA5&currStreakNum=ffffff&sideNums=ffffff&dates=8a7ca8" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NotSoftwaree&theme=radical&hide_border=true&background=01040a&ring=0091FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=2B6EA5&currStreakNum=ffffff&sideNums=ffffff&dates=8a7ca8" alt="GitHub Streak"/>
 
 </div>
 
