@@ -1,7 +1,7 @@
 # NotSoftware
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=800&color=00D1FF&center=true&vCenter=true&width=720&lines=Security+Researcher;Reverse+Engineer;Malware+Analyst;Binary+Specialist;Low-Level+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=800&color=00D1FF&center=true&vCenter=true&width=760&lines=Security+Researcher;Reverse+Engineer;Malware+Analyst;Binary+Specialist;Low-Level+Developer" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ I am a Security Researcher and Reverse Engineer focused on understanding softwar
 
 - Focused on reverse engineering and malware analysis
 - Skilled in low-level systems and binary internals
-- Working with C, C++, and Assembly to build technical tooling
+- Working with C, C++, Assembly, and Bash across offensive and defensive workflows
 - Interested in APT research, persistence techniques, and defensive analysis
 
 ---
@@ -38,13 +38,14 @@ I am a Security Researcher and Reverse Engineer focused on understanding softwar
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Assembly-6E4C13?logo=gnu-bash&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
 ### Security & Reverse Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Reverse%20Engineering-FF6B6B?logo=security&logoColor=white" alt="Reverse Engineering" />
-  <img src="https://img.shields.io/badge/Malware%20Analysis-5D3FD3?logo=shield&logoColor=white" alt="Malware Analysis" />
-  <img src="https://img.shields.io/badge/Binary%20Analysis-00A896?logo=Windows&logoColor=white" alt="Binary Analysis" />
+  <img src="https://img.shields.io/badge/Malware%20Analysis-7C3AED?logo=shield&logoColor=white" alt="Malware Analysis" />
+  <img src="https://img.shields.io/badge/Binary%20Analysis-00A896?logo=linux&logoColor=white" alt="Binary Analysis" />
   <img src="https://img.shields.io/badge/Threat%20Research-FFA726?logo=bug&logoColor=white" alt="Threat Research" />
 </p>
 
@@ -73,7 +74,7 @@ I am a Security Researcher and Reverse Engineer focused on understanding softwar
 ## Mission
 Every binary tells a story. My goal is to read the structures, understand the intent, and translate that knowledge into tools, detection, and deeper defensive insight.
 
-> “Understanding the system is the first step toward controlling the outcome.”
+> Understanding the system is the first step toward controlling the outcome.
 
 ---
 
