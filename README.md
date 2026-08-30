@@ -17,7 +17,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NotSoftwaree&color=0091FF&style=for-the-badge&label=PROFILE+VIEWS)
 [![Discord](https://img.shields.io/badge/Discord-0xrdo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NotSoftware-00d9ff?style=for-the-badge&logo=linkedin&logoColor=01040a)](https://www.linkedin.com/in/redharlow/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NotSoftware-00d9ff?style=for-the-badge&logo=linkedin&logoColor=01040a)](https://www.linkedin.com/in/NotSoftware/)
 [![Twitter](https://img.shields.io/badge/X-@0xrdo-0091ff?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
 [![Email](https://img.shields.io/badge/Email-Contact-2b6ea5?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact@example.com)
 
@@ -292,7 +292,7 @@ Collection of generic unpacking scripts for common packers, built on top of x64d
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RedHarlowCore&theme=react-dark&hide_border=true&bg_color=01040a&color=00D9FF&line=0091FF&point=ffffff&area_color=2B6EA5" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSoftware&theme=react-dark&hide_border=true&bg_color=01040a&color=00D9FF&line=0091FF&point=ffffff&area_color=2B6EA5" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -309,7 +309,7 @@ Open to discussing malware research, reverse engineering, or collaborating on to
 <br/><br/>
 
 [![Discord](https://img.shields.io/badge/Discord-0xrdo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RedHarlow-00d9ff?style=for-the-badge&logo=linkedin&logoColor=01040a)](https://www.linkedin.com/in/redharlow/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NotSoftware-00d9ff?style=for-the-badge&logo=linkedin&logoColor=01040a)](https://www.linkedin.com/in/NotSoftware/)
 [![Twitter](https://img.shields.io/badge/X-@0xrdo-0091ff?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
 
 </div>
