@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hello@notsoftware.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 ---
@@ -88,8 +85,5 @@ Every binary tells a story. My goal is to read the structures, understand the in
   </a>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hello@notsoftware.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
