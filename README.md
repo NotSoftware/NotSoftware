@@ -1,34 +1,37 @@
-# Hi there, I'm NotSoftware 👋
+# NotSoftware
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Security+Researcher;Reverse+Engineer;Malware+Analyst;Binary+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=800&color=00D1FF&center=true&vCenter=true&width=720&lines=Security+Researcher;Reverse+Engineer;Malware+Analyst;Binary+Specialist;Low-Level+Developer" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/NotSoftware" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-NotSoftware-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://discord.com/users/0xnsr" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0xnsr-5865F2?logo=discord&logoColor=white" alt="Discord" />
+  </a>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hello@notsoftware.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-hello@notsoftware.dev-D14836?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## About Me 🧠
-I am a Security Researcher and Reverse Engineer focused on understanding how software behaves at the deepest level. I analyze binaries, dissect malware, and build tools that help uncover malicious logic and defend against modern threats.
+## About
+I am a Security Researcher and Reverse Engineer focused on understanding software at its deepest level. I analyze binaries, study malware behavior, and build tools to uncover hidden logic, exploit structures, and defensive countermeasures.
 
-- 🔐 Focused on malware analysis and reverse engineering
-- 🧬 Skilled in low-level systems and binary internals
-- 💻 Working with C, C++, and Assembly to build technical tooling
-- 🎯 Current interests: advanced malware analysis, persistence mechanisms, and threat research
+- Focused on reverse engineering and malware analysis
+- Skilled in low-level systems and binary internals
+- Working with C, C++, and Assembly to build technical tooling
+- Interested in APT research, persistence techniques, and defensive analysis
 
 ---
 
-## Core Skills ⚙️
+## Core Skills
 
 ### Programming Languages
 <p align="left">
@@ -37,39 +40,42 @@ I am a Security Researcher and Reverse Engineer focused on understanding how sof
   <img src="https://img.shields.io/badge/Assembly-6E4C13?logo=gnu-bash&logoColor=white" alt="Assembly" />
 </p>
 
-### Cyber Security & Reverse Engineering
+### Security & Reverse Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-FF6B6B?logo=hackthebackrooms&logoColor=white" alt="Reverse Engineering" />
-  <img src="https://img.shields.io/badge/Malware%20Analysis-5D3FD3?logo=security&logoColor=white" alt="Malware Analysis" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-FF6B6B?logo=security&logoColor=white" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/Malware%20Analysis-5D3FD3?logo=shield&logoColor=white" alt="Malware Analysis" />
   <img src="https://img.shields.io/badge/Binary%20Analysis-00A896?logo=linux&logoColor=white" alt="Binary Analysis" />
-  <img src="https://img.shields.io/badge/Threat%20Research-FFA726?logo=shield&logoColor=white" alt="Threat Research" />
+  <img src="https://img.shields.io/badge/Threat%20Research-FFA726?logo=bug&logoColor=white" alt="Threat Research" />
 </p>
 
 ---
 
-## GitHub Stats 📊
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotSoftware&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NotSoftware&show_icons=true&theme=radical&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=E5E7EB&bg_color=0B1020" alt="GitHub Stats" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSoftware&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSoftware&layout=compact&theme=radical&hide_border=true&title_color=00D1FF&text_color=E5E7EB&bg_color=0B1020" alt="Top Languages" height="190" />
 </p>
 
 ---
 
-## Current Mission 🚀
-I focus on understanding the internals of software and malware to identify weaknesses, strong patterns, and defensive opportunities. My work blends engineering discipline with security-first thinking to break down complex systems and build practical solutions.
+## Mission
+Every binary tells a story. My goal is to read the structures, understand the intent, and translate that knowledge into tools, detection, and deeper defensive insight.
 
-> “Every binary tells a story. My job is to read it before the attacker does.”
+> “Understanding the system is the first step toward controlling the outcome.”
 
 ---
 
-## Connect With Me 📬
+## Connect
 <p align="left">
   <a href="https://github.com/NotSoftware" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%40NotSoftware-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/0xnsr" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0xnsr-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
