@@ -44,7 +44,7 @@ I am a Security Researcher and Reverse Engineer focused on understanding softwar
 <p align="left">
   <img src="https://img.shields.io/badge/Reverse%20Engineering-FF6B6B?logo=security&logoColor=white" alt="Reverse Engineering" />
   <img src="https://img.shields.io/badge/Malware%20Analysis-5D3FD3?logo=shield&logoColor=white" alt="Malware Analysis" />
-  <img src="https://img.shields.io/badge/Binary%20Analysis-00A896?logo=linux&logoColor=white" alt="Binary Analysis" />
+  <img src="https://img.shields.io/badge/Binary%20Analysis-00A896?logo=Windows&logoColor=white" alt="Binary Analysis" />
   <img src="https://img.shields.io/badge/Threat%20Research-FFA726?logo=bug&logoColor=white" alt="Threat Research" />
 </p>
 
