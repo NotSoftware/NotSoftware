@@ -52,13 +52,9 @@ I am a Security Researcher and Reverse Engineer focused on understanding softwar
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotSoftware&show_icons=true&theme=radical&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=E5E7EB&bg_color=0B1020" alt="GitHub Stats" width="420" height="170" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotSoftware&show_icons=true&theme=radical&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=E5E7EB&bg_color=0B1020)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSoftware&layout=compact&theme=radical&hide_border=true&title_color=00D1FF&text_color=E5E7EB&bg_color=0B1020" alt="Top Languages" width="420" height="170" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotSoftware&layout=compact&theme=radical&hide_border=true&title_color=00D1FF&text_color=E5E7EB&bg_color=0B1020)
 
 ---
 
