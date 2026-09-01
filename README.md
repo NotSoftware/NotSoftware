@@ -51,6 +51,8 @@ I am a Security Researcher and Reverse Engineer focused on understanding softwar
 ## GitHub Status
 
 
+[![NotSoftware's GitHub stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
 [![NotSoftware's Top Languages](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 
