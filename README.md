@@ -50,12 +50,6 @@ I am a Security Researcher and Reverse Engineer focused on understanding softwar
 
 ## GitHub Status
 
-
-[![NotSoftware's GitHub stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
-[![NotSoftware's Top Languages](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Status-Active-181717?logo=github&logoColor=white" alt="GitHub Status" />
   <img src="https://img.shields.io/badge/Most%20Used-C%20%7C%20C%2B%2B%20%7C%20Assembly-00D1FF?logo=codeforces&logoColor=white" alt="Most Used Languages" />
