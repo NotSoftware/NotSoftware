@@ -31,12 +31,16 @@ I am a Security Researcher, Reverse Engineer, and Malware Developer focused on u
 ## Core Skills
 
 ### Programming Languages
+
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Assembly-6E4C13?logo=gnu-bash&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows" />
 </p>
+
 
 ### Security & Reverse Engineering
 <p align="left">
