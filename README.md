@@ -48,7 +48,6 @@ I am a Security Researcher, Reverse Engineer, and Malware Developer focused on u
 <p align="left">
   <img src="https://img.shields.io/badge/Reverse%20Engineering-FF6B6B?logo=security&logoColor=white" alt="Reverse Engineering" />
   <img src="https://img.shields.io/badge/Malware%20Analysis-7C3AED?logo=shield&logoColor=white" alt="Malware Analysis" />
-  <img src="https://img.shields.io/badge/Binary%20Analysis-FFFFFF?logoColor=0078D6" alt="Binary Analysis" />
   <img src="https://img.shields.io/badge/Threat%20Research-FFA726?logo=bug&logoColor=white" alt="Threat Research" />
 </p>
 
