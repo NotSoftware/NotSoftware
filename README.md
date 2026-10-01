@@ -19,12 +19,12 @@
 ---
 
 ## About
-I am a Security Researcher and Reverse Engineer focused on understanding software at its deepest level. I analyze binaries, study malware behavior, and build tools to uncover hidden logic, exploit structures, and defensive countermeasures.
+I am a Security Researcher, Reverse Engineer, and Malware Developer focused on understanding software at its deepest level. I analyze binaries, study malware behavior, and build tools to uncover hidden logic, exploit structures, and defensive countermeasures.
 
-- Focused on reverse engineering and malware analysis
-- Skilled in low-level systems and binary internals
+- Focused on reverse engineering, malware development, and malware analysis
+- Skilled in low-level systems, binary internals, and API exploitation
 - Working with C, C++, Assembly, and Bash across offensive and defensive workflows
-- Interested in APT research, persistence techniques, and defensive analysis
+- Interested in APT research, persistence techniques, evasion mechanisms, and defensive anal
 
 ---
 
