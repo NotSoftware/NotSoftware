@@ -48,9 +48,7 @@ I am a Security Researcher, Reverse Engineer, and Malware Developer focused on u
 <p align="left">
   <img src="https://img.shields.io/badge/Reverse%20Engineering-FF6B6B?logo=security&logoColor=white" alt="Reverse Engineering" />
   <img src="https://img.shields.io/badge/Malware%20Analysis-7C3AED?logo=shield&logoColor=white" alt="Malware Analysis" />
-  <img src="https://img.shields.io/badge/Binary%20Analysis-00A896?logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BV2luZG93czwvdGl0bGU%2BPHBhdGggZmlsbD0iIzAwNzhENiIgZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42Mj
-```
-
+  <img src="https://img.shields.io/badge/Binary%20Analysis-00A896?logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BV2luZG93czwvdGl0bGU%2BPHBhdGggZmlsbD0iIzAwNzhENiIgZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4%3D" alt="Binary Analysis" />
   <img src="https://img.shields.io/badge/Threat%20Research-FFA726?logo=bug&logoColor=white" alt="Threat Research" />
 </p>
 
