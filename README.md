@@ -85,7 +85,7 @@ Every binary tells a story. My goal is to read the structures, understand the in
   <a href="https://github.com/NotSoftware" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%40NotSoftware-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://discord.com/users/0xnsr" target="_blank">
+  <a href="https://discord.com/users/NoSoftwaree" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0xnsr-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
